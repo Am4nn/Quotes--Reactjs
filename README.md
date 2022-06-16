@@ -1,5 +1,5 @@
 # Quotes--React
-A Mern Stack website made using React and for backend Firsebase, this is project is made production ready.
+A Mern Stack website made using React and for backend Firsebase, this project is made production ready.
 <br>
 To access deployed website goto : https://react-http-bc7c5.web.app/quotes
 <br>
